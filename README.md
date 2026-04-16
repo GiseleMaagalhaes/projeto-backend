@@ -1,4 +1,4 @@
-# 📚 Introdução ao Backend - MFX Academy
+# 📚 Introdução ao Backend - JYNX Academy
 
 Este é um repositório que reúne o conteúdo das aulas de introdução ao desenvolvimento backend utilizando Node.js, com foco em boas práticas e uso do framework Fastify.
 
